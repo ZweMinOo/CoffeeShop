@@ -1,5 +1,5 @@
 # CoffeeShop
-The very first app when I started learn Java.
+The very first app developed when I started learning Java in 2016.
 
 ## How to Run
 Note : Need to install Java in your computer before you compile.
